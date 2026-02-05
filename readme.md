@@ -148,19 +148,19 @@ The API Key for IBM Cloud is "xxxxxxxxxxx"
 
 <img src="images/img-17.png" >
 
-### 6. Container Registry login
+### 7. Container Registry login
 
 - Bob logged in to the IBM Container Registry
 
 <img src="images/img-18.png" >
 
-### 7. Push Image to Container Registry
+### 8. Push Image to Container Registry
 
 - Bob pushed the container image to the IBM Container Registry
 
 <img src="images/img-19.png" >
 
-### 8. Creating a Project in IBM Code Engine
+### 9. Creating a Project in IBM Code Engine
 
 - Bob created a project in IBM Code Engine.
 
@@ -168,7 +168,7 @@ The API Key for IBM Cloud is "xxxxxxxxxxx"
 
 <img src="images/img-21.png" >
 
-### 9. Creating the App in IBM Code Engine
+### 10. Creating the App in IBM Code Engine
 
 - Bob created the application in IBM Code Engine using the provided container image.
 
@@ -178,6 +178,6 @@ The API Key for IBM Cloud is "xxxxxxxxxxx"
 
 - The application was successfully deployed to IBM Code Engine.
 
-### 10. Final Output
+### 11. Final Output
 
 - All generated source code and Markdown documentation files are now available in the [/project](project) folder.
